@@ -11,15 +11,6 @@
 # testing
 /coverage
 
-# storybook
-storybook-static
-*storybook.log
-
-# playwright
-/test-results/
-/playwright-report/
-/playwright/.cache/
-
 # next.js
 /.next
 /out
