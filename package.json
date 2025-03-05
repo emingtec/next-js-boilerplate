@@ -38,7 +38,6 @@
     "@hookform/resolvers": "^4.1.2",
     "@logtail/pino": "^0.5.2",
     "@opennextjs/cloudflare": "^0.5.8",
-    "@sentry/nextjs": "^8.54.0",
     "@spotlightjs/spotlight": "^2.10.3",
     "@t3-oss/env-nextjs": "^0.12.0",
     "drizzle-orm": "^0.40.0",
